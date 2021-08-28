@@ -1,0 +1,1 @@
+export const homePageUrl= "/dashboard";export const loginUrl  ="/login";export const dashboardUrl= "/dashboard";
